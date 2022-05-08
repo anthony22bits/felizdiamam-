@@ -1,0 +1,34 @@
+
+
+/* 
+Orange: #F15B31   Light Blue: #98D2BF  Dark Blue: #0D2C40
+*/
+header{
+    text-align: center;
+    background-color:ghostwhite
+}
+body {
+  background-color: lightblue;
+}   
+
+h1 {
+  
+}
+.titulocarta{
+  text-align: center;
+  color: red;
+}
+.lista1{
+ display: inline-block;
+ margin: 0 5%;
+ padding: 20px 50px;
+ font-size: 15px;
+}
+.contenidopoema{
+  background-color: pink;
+  display: inline-block;
+}
+.enlace{
+  position: absolute;
+  left: 45%;
+}
